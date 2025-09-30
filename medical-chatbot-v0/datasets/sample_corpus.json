@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Cardiovascular Disease Prevention Guidelines",
+    "text": "Regular exercise, maintaining healthy diet, and monitoring blood pressure are key factors in cardiovascular disease prevention. Studies show that moderate exercise for 30 minutes daily can reduce heart disease risk by up to 50%. A diet rich in fruits, vegetables, and whole grains while limiting saturated fats and sodium is recommended. Blood pressure should be monitored regularly, with optimal levels being less than 120/80 mmHg.",
+    "doc_id": "CVD_001",
+    "category": "Cardiology"
+  },
+  {
+    "title": "Diabetes Management Best Practices",
+    "text": "Type 2 diabetes management requires a comprehensive approach including blood glucose monitoring, medication adherence, dietary control, and regular physical activity. HbA1c levels should be maintained below 7% for most adults. Patients should monitor blood glucose levels as recommended by their healthcare provider, typically before meals and at bedtime. Metformin is often the first-line medication for type 2 diabetes.",
+    "doc_id": "DM_002",
+    "category": "Endocrinology"
+  },
+  {
+    "title": "Hypertension Treatment Protocols",
+    "text": "Hypertension affects over 45% of adults and requires prompt treatment to prevent complications. First-line treatments include ACE inhibitors, ARBs, calcium channel blockers, and thiazide diuretics. Lifestyle modifications such as sodium restriction, weight loss, and regular exercise are essential components of treatment. Target blood pressure for most adults is less than 130/80 mmHg.",
+    "doc_id": "HTN_003",
+    "category": "Cardiology"
+  },
+  {
+    "title": "Antibiotic Resistance Prevention",
+    "text": "Antibiotic resistance is a growing global health threat. Proper antibiotic stewardship includes prescribing antibiotics only when necessary, choosing the right antibiotic for the specific infection, and ensuring patients complete the full course of treatment. Healthcare providers should follow evidence-based guidelines for antibiotic selection and duration. Patient education about proper antibiotic use is crucial.",
+    "doc_id": "AB_004",
+    "category": "Infectious Disease"
+  },
+  {
+    "title": "Depression Screening and Treatment",
+    "text": "The PHQ-9 questionnaire is a validated tool for depression screening in primary care settings. Major depressive disorder treatment options include psychotherapy, antidepressant medications, or combination therapy. SSRIs and SNRIs are typically first-line pharmacological treatments. Regular follow-up is essential to monitor treatment response and adjust therapy as needed.",
+    "doc_id": "MH_005",
+    "category": "Mental Health"
+  },
+  {
+    "title": "Chronic Pain Management Guidelines",
+    "text": "Chronic pain management should follow a multimodal approach emphasizing non-pharmacological interventions when possible. Physical therapy, cognitive behavioral therapy, and mindfulness techniques are evidence-based treatments. When medications are necessary, acetaminophen and NSAIDs are preferred over opioids for most conditions. Opioid therapy should be reserved for severe pain when other treatments have failed.",
+    "doc_id": "PAIN_006",
+    "category": "Pain Management"
+  },
+  {
+    "title": "Preventive Care Screening Recommendations",
+    "text": "Age-appropriate preventive care screenings include mammograms for breast cancer (ages 50-74), colonoscopy for colorectal cancer (ages 50-75), and cervical cancer screening with Pap smears (ages 21-65). Annual influenza vaccination is recommended for all patients 6 months and older. Lipid screening should begin at age 40 for men and age 50 for women, or earlier if risk factors are present.",
+    "doc_id": "PREV_007",
+    "category": "Preventive Medicine"
+  },
+  {
+    "title": "Acute Respiratory Infection Management",
+    "text": "Most upper respiratory tract infections are viral and do not require antibiotic treatment. Supportive care including rest, fluids, and symptom management is appropriate for viral infections. Antibiotics should be considered for bacterial infections such as strep throat, sinusitis lasting more than 10 days, or pneumonia. Rapid antigen tests can help differentiate bacterial from viral causes.",
+    "doc_id": "RESP_008",
+    "category": "Respiratory Medicine"
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "generated_at": "2025-09-25T18:59:37.751935Z",
+  "qa_count": 200,
+  "extractions_count": 200,
+  "source_files": {
+    "qa": "/Users/jacinda/amplify-api-course/assignment5/trial_data_by_ass3_agent/generated_qa_984rows.csv",
+    "extractions": "/Users/jacinda/amplify-api-course/assignment5/trial_data_by_ass3_agent/step3_extracted_larger.csv"
+  },
+  "output_dir": "/Users/jacinda/amplify-api-course/assignment5/medical-chatbot-v0/datasets/validated"
+}
